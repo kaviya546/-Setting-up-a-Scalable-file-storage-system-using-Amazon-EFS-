@@ -32,10 +32,20 @@ cat file  # Verify shared access by reading content created in Instance 1
 
 ## OUTPUT
 Both EC2 instances showing EFS mounting.
+
+
 ![image](https://github.com/user-attachments/assets/3b9b7b96-e492-46b6-a8fd-5b84a38cd966)
+
 The creation of a file on Instance 1.
+
+
 ![image](https://github.com/user-attachments/assets/7b1fdb37-293f-4c18-9692-84ea9c36d40a)
+
+
+
 The display of that file’s contents on Instance 2 to verify shared access
+
+
 ![image](https://github.com/user-attachments/assets/ed03a424-2cec-45db-88cd-eacb187f4167)
 
 ## RESULT
